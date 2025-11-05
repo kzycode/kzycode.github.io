@@ -4,7 +4,7 @@ She is currently a junior student majoring in Digital Media Technology at Queen 
 
 #### Contact
 
-Email: kangzhiyu[at]bupt.edu.cn
+Email: kangzhiyu@bupt.edu.cn
 
 #### Education
 B.E., Digital Media Technology, Beijing University of Posts and Telecommunications, 2023—2027 (expected).
