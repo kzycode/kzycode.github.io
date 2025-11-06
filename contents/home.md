@@ -10,4 +10,4 @@ Email: kangzhiyu@bupt.edu.cn
 B.E., Digital Media Technology, Beijing University of Posts and Telecommunications, 2023—2027 (expected).
 
 #### Research Interests
-Artificial Intelligence, Vision-Language-Action Models for Autonomous Driving, Multimodal Learning, Embodied AI.
+Embodied AI, Vision-Language-Action Models, Multimodal.
